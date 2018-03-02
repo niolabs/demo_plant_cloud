@@ -31,3 +31,6 @@
 [submodule "blocks/join"]
 	path = blocks/join
 	url = git://github.com/nio-blocks/join.git
+[submodule "blocks/weather_underground"]
+	path = blocks/weather_underground
+	url = https://github.com/nio-blocks/weather_underground.git
