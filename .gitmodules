@@ -4,9 +4,6 @@
 [submodule "blocks/filter"]
 	path = blocks/filter
 	url = git://github.com/nio-blocks/filter.git
-[submodule "blocks/logger"]
-	path = blocks/logger
-	url = git://github.com/nio-blocks/logger.git
 [submodule "blocks/simulator"]
 	path = blocks/simulator
 	url = git://github.com/nio-blocks/simulator.git
@@ -31,6 +28,12 @@
 [submodule "blocks/join"]
 	path = blocks/join
 	url = git://github.com/nio-blocks/join.git
-[submodule "blocks/weather_underground"]
-	path = blocks/weather_underground
-	url = https://github.com/nio-blocks/weather_underground.git
+[submodule "blocks/logger"]
+	path = blocks/logger
+	url = https://github.com/nio-blocks/logger
+[submodule "blocks/http_requests"]
+	path = blocks/http_requests
+	url = git://github.com/nio-blocks/http_requests.git
+[submodule "blocks/geo"]
+	path = blocks/geo
+	url = git://github.com/nio-blocks/geo.git
