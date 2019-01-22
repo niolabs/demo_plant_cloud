@@ -31,3 +31,6 @@
 [submodule "blocks/state"]
 	path = blocks/state
 	url = git://github.com/nio-blocks/state
+[submodule "service_tests"]
+	path = service_tests
+	url = git://github.com/niolabs/service_tests
